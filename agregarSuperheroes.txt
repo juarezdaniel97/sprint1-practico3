@@ -1,0 +1,68 @@
+[
+    {
+        "id": 4,
+        "nombreSuperheroe": "Back Widow",
+        "nombreReal": "Natasha Romanoff",
+        "nombreSociedad": "Vigilante",
+        "edad": 33,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Ninguna conocida",
+        "poder": ["Maestría en combate", "Espionaje"],
+        "habilidadEspecial": "Entrenamiento de élite",
+        "aliado": ["Hawkeye"],
+        "enemigo": ["Taskmaster"]
+    },
+     {
+        "id": 5,
+        "nombreSuperheroe": "Hulk",
+        "nombreReal": "Bruce Banner",
+        "nombreSociedad": "Vigilante",
+        "edad": 40,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Control emocional",
+        "poder": ["Fuerza bruta", "Resistencia"],
+        "habilidadEspecial": "Regeneración rápida",
+        "aliado": ["Iroman"],
+        "enemigo": ["Loki"]
+    },
+    {
+        "id": 6,
+        "nombreSuperheroe": "Capitán América",
+        "nombreReal": "Steve Rogers",
+        "nombreSociedad": "Vigilante",
+        "edad": 103,
+        "planetaOrigen": "Tierra",
+        "debilidad": "No tiene debilidad",
+        "poder": ["Fuerza aumentada", "Agilidad"],
+        "habilidadEspecial": "Escudo indestructible",
+        "aliado": ["Bucky Banes"],
+        "enemigo": ["Red Skull"]
+    },
+    {
+        "id": 7,
+        "nombreSuperheroe": "Doctór Strange",
+        "nombreReal": "Stephen Strange",
+        "nombreSociedad": "Hechizero Supremo",
+        "edad": 40,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Desconocida",
+        "poder": ["Magia", "Teletransportación"],
+        "habilidadEspecial": "Hehizos poderosos",
+        "aliado": ["Wong"],
+        "enemigo": ["Dormammu"]
+    },
+    {
+        "id": 8,
+        "nombreSuperheroe": "Maestro Arcano",
+        "nombreReal": "Lucas Archer",
+        "nombreSociedad": "Guardia del Eter",
+        "edad": 42,
+        "planetaOrigen": "Tierra",
+        "debilidad": "La pérdida de su anillo de Éter",
+        "poder": ["Magia Arcana", "Control de la Realidad", "Teletransportación a través de portales"],
+        "habilidadEspecial": "Manipulación del Tiempo a través de runas antiguas",
+        "aliado": ["Elora, Guardiana de los Portales"],
+        "enemigo": ["Kharon, el Devorador de Almas"]
+    }
+
+]
